@@ -18,6 +18,14 @@ According to the original creator of the YTP+ software, the code is FOSS (Free O
 First, you need to add source clips (aka "transitions"), music, and sound effects somewhere, you can try to use the module directory's premade folder however I don't recommend this.
 
 Set the values [Options object].sources, [Options object].sounds and [Options object].music to a directory with the [required files](https://github.com/philosophofee/YTPPlus), then start to use the module however you'd like.
+## I came here because I'd like to use the new version, what is this Node.js garbage?
+While this module is more complicated than the simple YTPPlusUI frontend, it is relatively easy to use.
+
+**Please read the above ``How to get started`` section before proceeding.**
+
+Simply install [Node.js](https://nodejs.org/en/) and run the command ``npm install`` in the directory this module resides.
+
+Afterwards, create a file ending in ``.js`` and open it with something like [VSCode](https://code.visualstudio.com/). Add the following text from below's ``How to use`` section and replace the topmost line with ``const YTPGenerator = require("./lib/YTPGenerator")``, alongside editing the source list, effects, max clips, whether or not you want transitons, add variables from documentation, etc. When that's finished, open a command window in the directory it resides and run ``node NameOfFile.js`` and it will provide you with information while generating clips. If something goes wrong but you have a ``sourceList`` composed of \*.mp4s, please let me know (see the bottommost section) and I'll be happy to help.
 ## How to use
 Example usage:
 ```js
