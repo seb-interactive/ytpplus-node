@@ -10,6 +10,8 @@ An added bonus of this module is being able to set the output resoluton and add 
 This version is a Node.js module, which allows it to be used in conjunction with other applications. There are also new features added to this version that were not originally added to the java one.
 
 With that said, I do plan on eventually creating a UI for this module for easier access.
+## What is currently missing?
+The only thing missing from this module compared to YTP+ is the Squidward effect. I plan to add it eventually, but not at this time.
 ## License?
 According to the original creator of the YTP+ software, the code is FOSS (Free Open Source Software) and therefore this port is as well. You are free to do whatever you'd like with the source code or the software, even sell it if you'd like.
 ## How to get started
