@@ -88,4 +88,4 @@ Documentation on the configureAndGo function:
  */
  ```
  ## I'm having problems, how do I get help?
- You can try to join arctic.zone's (Discord)[https://discord.gg/6NZArYA] but I can't guarentee anyone will help you other than myself (LimeQuartz) due to the differences in code and usage. If you'd like to talk to me directly, my DiscordTag is LimeQuartz#7754. (Don't want to friend me? Join the discord.js or Speak.js communities on Discord, I would be able to be directly messaged without sending a friend request to me.)
+ You can try to join arctic.zone's [Discord](https://discord.gg/6NZArYA) but I can't guarentee anyone will help you other than myself (LimeQuartz) due to the differences in code and usage. If you'd like to talk to me directly, my DiscordTag is LimeQuartz#7754. (Don't want to friend me? Join the discord.js or Speak.js communities on Discord, I would be able to be directly messaged without sending a friend request to me.)
