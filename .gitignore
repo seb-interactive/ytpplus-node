@@ -1,3 +1,16 @@
+# Source material
+/sources/*.mp4
+/music/*.mp3
+/sounds/*.mp3
+
+# Temporary files
+*/job_*
+
+# Test files
+test.js
+done.mp4
+intro2.mp4
+
 # Logs
 logs
 *.log
