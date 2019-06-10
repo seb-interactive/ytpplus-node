@@ -1,6 +1,6 @@
 {
   "name": "ytpplus-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "YTP+ from arctic.zone ported to Node.js. Automatically creates YouTube Poops out of videos using supplied source clips, sound effects, music, as well as built-in video effects.",
   "main": "index.js",
   "dependencies": {
