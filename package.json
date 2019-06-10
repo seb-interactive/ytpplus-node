@@ -23,10 +23,12 @@
     "poop",
     "ytpplus",
     "ytp+",
-    "arctic.zone"
+    "arctic.zone",
+    "nodejs",
+    "node.js"
   ],
   "author": "TeamPopplio",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/TeamPopplio/ytpplus-node/issues"
   },
