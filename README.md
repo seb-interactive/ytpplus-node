@@ -25,7 +25,8 @@ While this module is more complicated than the simple YTPPlusUI frontend, it is 
 
 Simply install [Node.js](https://nodejs.org/en/) and run the command ``npm install`` in the directory this module resides.
 
-Afterwards, create a file ending in ``.js`` and open it with something like [VSCode](https://code.visualstudio.com/). Add the following text from below's ``How to use`` section and replace the topmost line with ``const YTPGenerator = require("./lib/YTPGenerator")``, alongside editing the source list, effects, max clips, whether or not you want transitons, add variables from documentation, etc. When that's finished, open a command window in the directory it resides and run ``node NameOfFile.js`` and it will provide you with information while generating clips. If something goes wrong but you have a ``sourceList`` composed of \*.mp4s, please let me know (see the bottommost section) and I'll be happy to help.
+After doing this you should edit and run my example file that was based on example usage.
+~~Afterwards, create a file ending in ``.js`` and open it with something like [VSCode](https://code.visualstudio.com/). Add the following text from below's ``How to use`` section and replace the topmost line with ``const YTPGenerator = require("./lib/YTPGenerator")``, alongside editing the source list, effects, max clips, whether or not you want transitons, add variables from documentation, etc. When that's finished, open a command window in the directory it resides and run ``node NameOfFile.js`` and it will provide you with information while generating clips. If something goes wrong but you have a ``sourceList`` composed of \*.mp4s, please let me know (see the bottommost section) and I'll be happy to help.~~
 ## How to use
 Example usage:
 ```js
@@ -98,4 +99,4 @@ Documentation on the configureAndGo function:
  */
  ```
  ## I'm having problems, how do I get help?
- You can try to join arctic.zone's [Discord](https://discord.gg/6NZArYA) but I can't guarentee anyone will help you other than myself (LimeQuartz) due to the differences in code and usage. If you'd like to talk to me directly, my DiscordTag is LimeQuartz#7754. (Don't want to friend me? Join the discord.js or Speak.js communities on Discord, I would be able to be directly messaged without sending a friend request to me.)
+either make an issue or contact me if youre a friend of mine or something
